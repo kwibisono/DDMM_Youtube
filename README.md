@@ -9,3 +9,17 @@ To deal with the aforementioned issues, we refer to the work of Duan et. al (201
 Download the data from: Trending YouTube Video Statistics from https://www.kaggle.com/datasnaek/youtube-new
 - Experiments were conducted on the US dataset
 
+## Preprocessing
+Run the commands in preprocessing.ipynb on the downloaded dataset.
+
+## Training
+Run any of the desired models notebook files.
+- Latent Dirichlet Allocation (LDA.ipynb) \[Blei et al., 2003\]
+- Dynamic Topic Model (DTM.ipynb) \[Blei and Lafferty, 2006\]
+- Dirichlet-Multinomial Mixture Model (DMM.ipynb) \[Yin and Wang, 2014\]
+- Dynamic Dirichlet-Multinomial Mixture Model (DDMM.ipynb) \[Duan and Li, 2018]\
+- Modified Dynamic Dirichlet-Multinomial Mixture Model (MDDMM.ipynb) \[Our Model\]
+
+## Evaluation and Analysis
+Except for the LDA model, all evaluation and analysis related scripts and included in "evaluation and analysis.ipynb".
+The evaluation and analysis for LDA can be conducted in the LDA model file.
