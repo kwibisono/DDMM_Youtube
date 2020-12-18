@@ -12,10 +12,10 @@ Download the data from: Trending YouTube Video Statistics from https://www.kaggl
 - Experiments were conducted on the US dataset
 
 ## Preprocessing
-Run the commands in preprocessing.ipynb on the downloaded dataset.
+Run the commands in preprocessing/preprocessing.ipynb on the downloaded dataset.
 
 ## Training
-Run any of the desired models notebook files.
+Run any of the desired models notebook files in the model directory.
 - Latent Dirichlet Allocation (LDA.ipynb) \[Blei et al., 2003\]
 - Dynamic Topic Model (DTM.ipynb) \[Blei and Lafferty, 2006\]
 - Dirichlet-Multinomial Mixture Model (DMM.ipynb) \[Yin and Wang, 2014\]
@@ -23,5 +23,5 @@ Run any of the desired models notebook files.
 - Modified Dynamic Dirichlet-Multinomial Mixture Model (MDDMM.ipynb) \[Our Model\]
 
 ## Evaluation and Analysis
-Except for the LDA model, all evaluation and analysis related scripts and included in "evaluation and analysis.ipynb".
+Except for the LDA model, all evaluation and analysis related scripts and included in "eval_analysis/evaluation and analysis.ipynb".
 The evaluation and analysis for LDA can be conducted in the LDA model file.
