@@ -17,7 +17,7 @@ Run any of the desired models notebook files.
 - Latent Dirichlet Allocation (LDA.ipynb) \[Blei et al., 2003\]
 - Dynamic Topic Model (DTM.ipynb) \[Blei and Lafferty, 2006\]
 - Dirichlet-Multinomial Mixture Model (DMM.ipynb) \[Yin and Wang, 2014\]
-- Dynamic Dirichlet-Multinomial Mixture Model (DDMM.ipynb) \[Duan and Li, 2018]\
+- Dynamic Dirichlet-Multinomial Mixture Model (DDMM.ipynb) \[Duan and Li, 2018\]
 - Modified Dynamic Dirichlet-Multinomial Mixture Model (MDDMM.ipynb) \[Our Model\]
 
 ## Evaluation and Analysis
