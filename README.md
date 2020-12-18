@@ -5,6 +5,8 @@ Everyday a vast amount of information is created; and in this dynamically changi
 
 To deal with the aforementioned issues, we refer to the work of Duan et. al (2018) in which they combine the ideas of Dynamic Topic Models (DTMs), which cluster dynamically, and Dirichlet-Multinomial Mixture Models (DMMs), which cluster short text, thus resulting in a model called the Dynamic Dirichlet-Multinomial Mixture Model (DDMM). We derive and implement a collapsed Gibbs sampler for posterior inference of the model, apply it to the Trending YouTube Video Statistics dataset available on Kaggle, and subsequently conduct quantitative and qualitative analyses of the resulting clusters. We find that a slight modification of the original DDMM algorithm leads to a significant model improvement.
 
+For more details please check DDMM_for_Short_Texts.pdf
+
 ## Dataset
 Download the data from: Trending YouTube Video Statistics from https://www.kaggle.com/datasnaek/youtube-new
 - Experiments were conducted on the US dataset
