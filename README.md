@@ -20,7 +20,7 @@ Run any of the desired models notebook files in the model directory.
 - Dynamic Topic Model (DTM.ipynb) \[Blei and Lafferty, 2006\]
 - Dirichlet-Multinomial Mixture Model (DMM.ipynb) \[Yin and Wang, 2014\]
 - Dynamic Dirichlet-Multinomial Mixture Model (DDMM.ipynb) \[Duan and Li, 2018\]
-- Modified Dynamic Dirichlet-Multinomial Mixture Model (MDDMM.ipynb) \[Our Model, 2020\]
+- Modified Dynamic Dirichlet-Multinomial Mixture Model (MDDMM.ipynb) \[Nishimura and Wibisono (Our Model), 2020\]
 
 ## Evaluation and Analysis
 Except for the LDA model, all evaluation and analysis related scripts and included in "eval_analysis/evaluation and analysis.ipynb".
